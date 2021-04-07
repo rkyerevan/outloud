@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
      Outloud
+      <span>Speaker rentals for any event</span>
     </div>
   )
 }
