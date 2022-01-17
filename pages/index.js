@@ -6,6 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       Outloud
       : Test Version
+      |And onther one|
     </div>
   )
 }
